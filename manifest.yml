@@ -3,5 +3,4 @@ applications:
 - name: sticky-session
   memory: 256M
   instances: 4
-  host: your-sticky-session
   path: target/StickySessionApp-1.0.war
